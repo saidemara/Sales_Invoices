@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d783871b-0d50-46ff-926c-26eb2119c4f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Sales_Invoices/Model/FileOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Sales_Invoices/Model/InvoiceHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Sales_Invoices/Model/InvoiceLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/InvoiceHeader.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/InvoiceLine.csv" afterDir="false" />
+    <list default="true" id="d783871b-0d50-46ff-926c-26eb2119c4f7" name="Changes" comment="First Push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +84,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671653180460</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Push">
+      <created>1671743342799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671743342799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,11 +99,28 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
