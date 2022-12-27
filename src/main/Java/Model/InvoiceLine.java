@@ -3,7 +3,7 @@ package Model;
 public class InvoiceLine {
 
 
-    String InvoiceNumber;
+    private String InvoiceNumber;
     private String itemName;
     private String itemPrice;
     private String count;
@@ -40,5 +40,9 @@ public class InvoiceLine {
         this.count = count;
     }
 
-
+    @Override
+    public String toString() {
+        return "The Invoice LineID is : " + getInvoiceNumber() + "Item Name is: "
+                + getItemName() + " Item Price ia :" + getItemPrice() + " Count is " + getCount();
+    }
 }

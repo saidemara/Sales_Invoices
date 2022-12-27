@@ -34,6 +34,9 @@ public class InvoiceHeader {
     public void setCustomerName(String customerName) {
         this.customerName = customerName;
     }
-
+    public String toString() {
+        return  "The Invoice Header is : " + getInvoiceNum() + "Invoice date is: "
+                + getInvoiceDate() + " Customer Name is :" + getCustomerName();
+    }
 
 }
